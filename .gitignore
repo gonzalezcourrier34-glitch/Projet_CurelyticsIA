@@ -60,6 +60,7 @@ catboost_info/
 artifacts/
 outputs/
 reports/
+models/
 
 # =============================================================================
 # Logs
